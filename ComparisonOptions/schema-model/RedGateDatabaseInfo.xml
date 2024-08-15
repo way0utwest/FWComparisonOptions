@@ -67,8 +67,8 @@
   <DataFileSet>
     <Count>4</Count>
     <DataFile>dbo.ChildTable_Data.sql</DataFile>
-    <DataFile>dbo.ParentTable_Data.sql</DataFile>
     <DataFile>dbo.CompanyAddress_Data.sql</DataFile>
     <DataFile>dbo.CompanyInfo_Data.sql</DataFile>
+    <DataFile>dbo.ParentTable_Data.sql</DataFile>
   </DataFileSet>
 </DatabaseInformation>
